@@ -28,4 +28,4 @@ To run this lab successfully excute the following commands
 ***php artisan key:generate***
 
 
-Copyright (C) [2020] [Trevor Saudi]
+Copyright (C) [2020]
